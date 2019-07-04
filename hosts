@@ -1,0 +1,4 @@
+[csr-router]
+R1 ansible_host=192.168.174.131
+
+
